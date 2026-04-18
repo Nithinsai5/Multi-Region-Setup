@@ -1,0 +1,13 @@
+->ll
+
+->cat main.tf
+
+->terraform init
+
+->terraform plain
+
+->terraform apply
+
+->yes
+
+-> terraform show
